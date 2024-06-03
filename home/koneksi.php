@@ -1,6 +1,6 @@
 <?php 
 $host = "localhost";
-$user = "root";
+$user = "172.16.11.69";
 $pass = "XIBclp63510";
 $db = "dbpeminjamanbuku";
 
